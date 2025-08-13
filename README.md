@@ -1,5 +1,5 @@
 #  Iris Flower Classification
-
+![Iris Flower Dataset](https://github.com/bhagyalakshmi0207/Iris-Flower-Classification/blob/b50361b225658a428307a8ddfb110e40a7c74ecc/Iris/Iris-Classification.jpg)
 This project uses the famous [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) to train and evaluate multiple machine learning models for flower species classification.
 
 ## 📊 Dataset Overview
